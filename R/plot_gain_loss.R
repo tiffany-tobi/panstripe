@@ -20,7 +20,7 @@
 #' @export
 plot_gain_loss <- function(fit,
                            tip_label=TRUE,
-                           text_size=14,
+                           text_size=8,
                            color_pallete=7){
   
   #check inputs
